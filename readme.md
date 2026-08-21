@@ -4,4 +4,4 @@ Data acquisition and analysis code for muon reconstruction in plastic scintillat
 
 ## gethistogram.m
 
-Get hisogram of decay spectrum given scintillator data.
+Get center-binned histogram of decay spectrum given data from large scintillator and small scintillator.
